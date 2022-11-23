@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/us2ts-2022/</loc>
+    <lastmod>2022-09-30T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/birmingham-2022/</loc>
+    <lastmod>2022-09-08T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ucl-2022/</loc>
+    <lastmod>2022-09-07T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cse-200-2021/</loc>
+    <lastmod>2021-11-18T09:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/jhu-case-2021/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cogsat-2021/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2021-multimodal/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/recruiting/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/fuzz-ieee-2021/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/nw-xai-2021/</loc>
+    <lastmod>2021-05-12T09:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/falco-2021-stress/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2021-anticipatory/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/neurips-phd/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wilson-2020-knowledge/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dissertation/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/defense/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cs520-xai/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/wids-2020/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/csail-student-profile/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-aaaifall/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ucsd-datascience-2019/</loc>
+    <lastmod>2019-10-23T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-learning/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-adaptable/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-monitoring/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ai-ethics/</loc>
+    <lastmod>2019-03-31T10:50:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/explanatory-games/</loc>
+    <lastmod>2019-03-31T10:50:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/reasonableness-monitors/</loc>
+    <lastmod>2019-03-31T10:50:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/car-can-explain/</loc>
+    <lastmod>2019-03-31T10:50:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/baldini-2019-reports/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/sflc-panel/</loc>
+    <lastmod>2018-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/sflc-2018/</loc>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-explaining-2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-explaining/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-monitoring/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-perception/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-reasonable/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-reasonableness/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2017-getting/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/liu-2016-graph/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bose-2016-veicl/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2014-co/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bergen-2012-negative/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2011-impact/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/recruiting/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/ai-magazine/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/autonomous-driving/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/explanations/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/panel/</loc>
+    <lastmod>2018-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-03-31T10:50:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2022-09-30T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/story-enabled-intelligence/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/survey/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2022-09-30T10:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

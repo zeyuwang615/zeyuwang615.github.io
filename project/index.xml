@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>/project/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 Mar 2019 10:50:48 -0400</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI and ethics</title>
+      <link>/project/ai-ethics/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      
+      <guid>/project/ai-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanatory Games</title>
+      <link>/project/explanatory-games/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      
+      <guid>/project/explanatory-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Decision Systems</title>
+      <link>/project/reasonableness-monitors/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      
+      <guid>/project/reasonableness-monitors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Car Can Explain!</title>
+      <link>/project/car-can-explain/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      
+      <guid>/project/car-can-explain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
