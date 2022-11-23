@@ -5,207 +5,27 @@
     <link>/publication/</link>
     <description>Recent content in Publications on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Explaining Multimodal Errors in Autonomous Vehicles</title>
-      <link>/publication/gilpin-2021-multimodal/</link>
-      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <title>Can CNNs Be More Robust Than Transformers?</title>
+      <link>/publication/robustcnn/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/gilpin-2021-multimodal/</guid>
-      <description></description>
+      <guid>/publication/robustcnn/</guid>
+      <description>tags: []</description>
     </item>
     
     <item>
-      <title>A stress testing framework for autonomous system verification and validation (v&amp;v)</title>
-      <link>/publication/falco-2021-stress/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Siamfc&#43;&#43;: Towards robust and accurate visual tracking with target estimation guidelines</title>
+      <link>/publication/siamfc&#43;&#43;/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/falco-2021-stress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anticipatory Thinking: A Testing and Representation Challenge for Self-Driving Cars</title>
-      <link>/publication/gilpin-2021-anticipatory/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2021-anticipatory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Knowledge Driven Approach to Adaptive Assistance Using Preference Reasoning and Explanation</title>
-      <link>/publication/wilson-2020-knowledge/</link>
-      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/wilson-2020-knowledge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anomaly Detection Through Explanations</title>
-      <link>/publication/dissertation/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/dissertation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explaining Possible Futures for Robust Autonomous Decision-Making</title>
-      <link>/publication/gilpin-2019-aaaifall/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2019-aaaifall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning From Explanations for Robust Autonomous Driving.</title>
-      <link>/publication/gilpin-2019-learning/</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2019-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Adaptable Self-Monitoring Framework for Opaque Machines</title>
-      <link>/publication/gilpin-2019-adaptable/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2019-adaptable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monitoring Opaque Learning Systems</title>
-      <link>/publication/gilpin-2019-monitoring/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2019-monitoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reports of the AAAI 2019 Spring Symposium Series</title>
-      <link>/publication/baldini-2019-reports/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/baldini-2019-reports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explaining Explanations to Society</title>
-      <link>/publication/gilpin-2018-explaining-2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2018-explaining-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explaining explanations: An overview of interpretability of machine learning</title>
-      <link>/publication/gilpin-2018-explaining/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2018-explaining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monitoring Scene Understanders with Conceptual Primitive Decomposition and Commonsense Knowledge</title>
-      <link>/publication/gilpin-2018-monitoring/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2018-monitoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perception of Speaker Personality Traits Using Speech Signals</title>
-      <link>/publication/gilpin-2018-perception/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2018-perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reasonable perception: Connecting vision and language systems for validating scene descriptions</title>
-      <link>/publication/gilpin-2018-reasonable/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2018-reasonable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reasonableness Monitors</title>
-      <link>/publication/gilpin-2018-reasonableness/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2018-reasonableness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Up to Speed on Vehicle Intelligence</title>
-      <link>/publication/gilpin-2017-getting/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2017-getting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph analysis for detecting fraud, waste, and abuse in healthcare data</title>
-      <link>/publication/liu-2016-graph/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/liu-2016-graph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Veicl Act: Safety and Security for Modern Vehicles</title>
-      <link>/publication/bose-2016-veicl/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bose-2016-veicl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-simulation solutions using AA4MM-FMI applied to smart space heating models</title>
-      <link>/publication/gilpin-2014-co/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2014-co/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Negative News No More: Classifying News Article Headlines</title>
-      <link>/publication/bergen-2012-negative/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bergen-2012-negative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of Topology and Communication Models on Connectivity in Networks</title>
-      <link>/publication/gilpin-2011-impact/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gilpin-2011-impact/</guid>
-      <description></description>
+      <guid>/publication/siamfc&#43;&#43;/</guid>
+      <description>tags: []</description>
     </item>
     
   </channel>
