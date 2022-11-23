@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinda Xu | Zeyu Wang</title>
+    <link>https://zeyuwang615.github.io/authors/yinda-xu/</link>
+      <atom:link href="https://zeyuwang615.github.io/authors/yinda-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yinda Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zeyuwang615.github.io/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_512x512_fill_lanczos_center_2.png</url>
+      <title>Yinda Xu</title>
+      <link>https://zeyuwang615.github.io/authors/yinda-xu/</link>
+    </image>
+    
+    <item>
+      <title>Siamfc&#43;&#43;: Towards robust and accurate visual tracking with target estimation guidelines</title>
+      <link>https://zeyuwang615.github.io/publication/siamfc&#43;&#43;/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://zeyuwang615.github.io/publication/siamfc&#43;&#43;/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

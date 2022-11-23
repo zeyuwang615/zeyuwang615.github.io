@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Wei | Zeyu Wang</title>
+    <link>https://zeyuwang615.github.io/authors/chen-wei/</link>
+      <atom:link href="https://zeyuwang615.github.io/authors/chen-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen Wei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zeyuwang615.github.io/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_512x512_fill_lanczos_center_2.png</url>
+      <title>Chen Wei</title>
+      <link>https://zeyuwang615.github.io/authors/chen-wei/</link>
+    </image>
+    
+    <item>
+      <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
+      <link>https://zeyuwang615.github.io/publication/dmae/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://zeyuwang615.github.io/publication/dmae/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
